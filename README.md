@@ -1,7 +1,7 @@
 # SF Bay Area Bike Share - Data Analytics
 
 ## Description
-The [Bay Area Bike Share] (https://www.kaggle.com/benhamner/sf-bay-area-bike-share) is a service that enables quick, easy, and affordable bike trips around the San Francisco Bay Area. In this jupyter notebook a Deep Data Analytics is performed where the trips dataset is used.
+The [Bay Area Bike Share](https://www.kaggle.com/benhamner/sf-bay-area-bike-share) is a service that enables quick, easy, and affordable bike trips around the San Francisco Bay Area. In this jupyter notebook a Deep Data Analytics is performed where the trips dataset is used.
 
 ## Summary
 - 85% of the trips are made by users who are subscribers for the last two years (2013-08, 2015-08).
@@ -29,4 +29,4 @@ trips.csv - Data about individual bike trips
 jupyter notebook .\Bike_Share.ipynb
 
 ## Acknowledgements
-This [dataset] (https://www.kaggle.com/benhamner/sf-bay-area-bike-share) is a transformed version of the Bay area bike share data.
+This [dataset](https://www.kaggle.com/benhamner/sf-bay-area-bike-share) is a transformed version of the Bay area bike share data.
